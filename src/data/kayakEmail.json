@@ -1,0 +1,45 @@
+{
+    "title":"Fly To Ireland with less than 700$ round trip plus more!",
+    "dealOfTheDay": {
+        "location":"Ireland",
+        "description": "8 days with air, hotel and car rental.Use promo code CFEL110 to save. Price reflects NYC departure,other cities available.",
+        "saveAmount": "Save $110 with code",
+        "tinyInfo":"Gate 1 Travel",
+        "price":"649",
+        "linkToDeal": "#",
+        "image":"https://i.imgur.com/FFGm1Fs.png"
+
+    },
+    "offers": [{
+    "location":"cancun",
+    "description": "4 nights with air and Melody Maker Cancun stay.Price reflects MIA departure, other cities available.",
+    "saveAmount": "Save up to 65%",
+    "TinyInfo":"CheapCarribean.com",
+    "price":"689",
+    "linkToDeal": "#",
+    "image":"https://i.imgur.com/Fpv1VU6.png"
+    },
+
+    {
+        "location":"China",
+        "description": "4 nights with air and Melody Maker Cancun stay.Price reflects MIA departure, other cities available.",
+        "saveAmount": "Save up to 65%",
+        "TinyInfo":"CheapCarribean.com",
+        "price":"689",
+        "linkToDeal": "#",
+        "image":"https://i.imgur.com/TBUAiOH.jpg"
+        },
+
+        {
+            "location":"england",
+            "description": "4 nights with air and Melody Maker Cancun stay.Price reflects MIA departure, other cities available.",
+            "saveAmount": "Save up to 65%",
+            "TinyInfo":"CheapCarribean.com",
+            "price":"689",
+            "linkToDeal": "#",
+            "image":"https://i.imgur.com/tn1LClF.png"
+         }
+
+
+   ]
+}
